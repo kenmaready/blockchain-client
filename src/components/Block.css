@@ -1,0 +1,21 @@
+.block-card {
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 8px !important;
+    width: 42rem !important;
+    background-color: black !important;
+    color: greenyellow;
+    font-family:'Courier New', Courier, monospace;
+    font-size: small;
+}
+
+
+/* .block-card:hover {
+    background-color: darkgray !important;
+    cursor: pointer;
+} */
+
+.clickable:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
