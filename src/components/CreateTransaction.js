@@ -5,6 +5,7 @@ export class CreateTransaction extends Component {
         return (
             <div>
                 <h3>Transfer ShareCoins:</h3>
+                
             </div>
         )
     }
